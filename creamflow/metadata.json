@@ -1,7 +1,0 @@
-{
-  "name": "Bloom OS",
-  "description": "Premium Developer Productivity OS, Portfolio milestones tracker, and cognitive focus companion designed to impress tech employers.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
